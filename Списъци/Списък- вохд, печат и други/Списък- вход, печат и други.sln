@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Списък-въведение", "Списък-въведение\Списък-въведение.csproj", "{0BB6E041-1AAF-4DCF-8217-16517342CEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd numbers Spisak", "Odd numbers Spisak\Odd numbers Spisak.csproj", "{3FF26AFC-09C8-41D5-8024-15CBBF3250E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 zadacha 14 tema word", "4 zadacha 14 tema word\3 zadacha 14 tema word.csproj", "{C1BCD302-BDB5-4DD2-8497-9BF4ED2F71E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 zadacha 15 tema", "4 zadacha 15 tema\4 zadacha 15 tema.csproj", "{B9B40055-00D5-451C-85D4-1A6847E955CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iztrivane na otricatelni elementi", "Iztrivane na otricatelni elementi\Iztrivane na otricatelni elementi.csproj", "{DF9D531C-DA4A-4769-8038-7BEBFEF63781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB6E041-1AAF-4DCF-8217-16517342CEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB6E041-1AAF-4DCF-8217-16517342CEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB6E041-1AAF-4DCF-8217-16517342CEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB6E041-1AAF-4DCF-8217-16517342CEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF26AFC-09C8-41D5-8024-15CBBF3250E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF26AFC-09C8-41D5-8024-15CBBF3250E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF26AFC-09C8-41D5-8024-15CBBF3250E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF26AFC-09C8-41D5-8024-15CBBF3250E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BCD302-BDB5-4DD2-8497-9BF4ED2F71E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BCD302-BDB5-4DD2-8497-9BF4ED2F71E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BCD302-BDB5-4DD2-8497-9BF4ED2F71E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BCD302-BDB5-4DD2-8497-9BF4ED2F71E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B40055-00D5-451C-85D4-1A6847E955CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B40055-00D5-451C-85D4-1A6847E955CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B40055-00D5-451C-85D4-1A6847E955CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B40055-00D5-451C-85D4-1A6847E955CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9D531C-DA4A-4769-8038-7BEBFEF63781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9D531C-DA4A-4769-8038-7BEBFEF63781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9D531C-DA4A-4769-8038-7BEBFEF63781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9D531C-DA4A-4769-8038-7BEBFEF63781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {467D57D3-EC9C-4600-9375-6A2656ECB640}
+	EndGlobalSection
+EndGlobal
