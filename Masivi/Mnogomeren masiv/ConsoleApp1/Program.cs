@@ -4,20 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Masivi_vhod
+namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-      using System;
-      using System.Collections.Generic;
-      using System.Linq;
-      using System.Text;
-      using System.Threading.Tasks;
 
-class Program
-        {
             static void Main(string[] args)
             {
                 //Deklarirane na dvumeren masiv
@@ -42,6 +33,22 @@ class Program
                     }
                     Console.WriteLine();
                 }
+
+            for (int i = 0; i <2 ; i++)
+            {
+                double sum = 0;
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.WriteLine(A[i,j] + " ");
+                    sum += A[i, j];
+                }
+                double avg = sum / 3;
+                Console.WriteLine($"ave={avg}");
             }
+            int brRed = A.GetLength(0);
+            Console.WriteLine($"brRed={brRed}");
+            int brKoloni = A.GetLength(1);
+            Console.WriteLine($"brRed={brKoloni}");
         }
-    } }
+    }
+}

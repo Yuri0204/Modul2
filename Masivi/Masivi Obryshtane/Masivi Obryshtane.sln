@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Word_1_SumMaxMin", "10_W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ masiv", "AZ masiv\AZ masiv.csproj", "{5AD7C44F-BA88-467F-A5EB-ED55DBE13151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha Sum_Odd numbers", "Zadacha Sum_Odd numbers\Zadacha Sum_Odd numbers.csproj", "{7608FE9C-37EE-42BE-94A9-D20C10CAA036}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse something something", "Zadacha Sum_Odd numbers\Reverse something something.csproj", "{7608FE9C-37EE-42BE-94A9-D20C10CAA036}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
